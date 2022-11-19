@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_study.iml" filepath="$PROJECT_DIR$/java_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_thread/java_thread.iml" filepath="$PROJECT_DIR$/java_thread/java_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_db_read_write/mybatis_db_read_write.iml" filepath="$PROJECT_DIR$/mybatis_db_read_write/mybatis_db_read_write.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_collection/study_collection.iml" filepath="$PROJECT_DIR$/study_collection/study_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_guava/study_guava.iml" filepath="$PROJECT_DIR$/study_guava/study_guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_hanlp/study_hanlp.iml" filepath="$PROJECT_DIR$/study_hanlp/study_hanlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_java8/study_java8.iml" filepath="$PROJECT_DIR$/study_java8/study_java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_jvm/study_jvm.iml" filepath="$PROJECT_DIR$/study_jvm/study_jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_mockito/study_mockito.iml" filepath="$PROJECT_DIR$/study_mockito/study_mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_reflection/study_reflection.iml" filepath="$PROJECT_DIR$/study_reflection/study_reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_simhash/study_simhash.iml" filepath="$PROJECT_DIR$/study_simhash/study_simhash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_utils/study_utils.iml" filepath="$PROJECT_DIR$/study_utils/study_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_xgb/study_xgb.iml" filepath="$PROJECT_DIR$/study_xgb/study_xgb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuo_chengyun/zuo_chengyun.iml" filepath="$PROJECT_DIR$/zuo_chengyun/zuo_chengyun.iml" />
+    </modules>
+  </component>
+</project>
