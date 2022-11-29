@@ -21,15 +21,15 @@
         <module name="zuo_chengyun" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
+    <bytecodeTargetLevel>
       <module name="algorithm" target="1.5" />
-      <module name="java_study" target="1.5" />
+      <module name="java" target="1.5" />
       <module name="mybatis_db_read_write" target="1.8" />
       <module name="study_collection" target="1.8" />
       <module name="study_guava" target="1.5" />
       <module name="study_hanlp" target="1.5" />
       <module name="study_java8" target="1.8" />
-      <module name="study_jvm" target="1.5" />
+      <module name="study_jvm" target="1.8" />
       <module name="study_mockito" target="1.5" />
       <module name="study_reflection" target="1.8" />
       <module name="study_simhash" target="1.8" />
@@ -37,10 +37,5 @@
       <module name="study_xgb" target="1.5" />
       <module name="zuo_chengyun" target="1.8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="algorithm" options="" />
-    </option>
   </component>
 </project>
